@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18009" started-at="2021-06-08T18:45:09Z" finished-at="2021-06-08T18:45:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18009" started-at="2021-06-08T18:45:09Z" finished-at="2021-06-08T18:45:27Z">
+      <class name="tests.TestProfile">
+        <test-method status="PASS" signature="createDriver()[pri:0, instance:tests.TestProfile@3bfdc050]" name="createDriver" is-config="true" duration-ms="2550" started-at="2021-06-08T18:45:09Z" finished-at="2021-06-08T18:45:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="testChangeusername()[pri:1, instance:tests.TestProfile@3bfdc050]" name="testChangeusername" duration-ms="10143" started-at="2021-06-08T18:45:12Z" finished-at="2021-06-08T18:45:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChangeusername -->
+        <test-method status="PASS" signature="testChangeRate()[pri:2, instance:tests.TestProfile@3bfdc050]" name="testChangeRate" duration-ms="5276" started-at="2021-06-08T18:45:22Z" finished-at="2021-06-08T18:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChangeRate -->
+      </class> <!-- tests.TestProfile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
