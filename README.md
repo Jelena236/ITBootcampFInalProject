@@ -1,6 +1,6 @@
 # ITBootcampFInalProject
 
-Final project is writen in Java, using Selenium. Projects is written folowing POM. Only "happy path" is testing by testNG.
+Final project is writen in Java, using Selenium. Project is written in POM. Only "happy path" is testing using testNG.
 
 Web application for testing: www.humanity.com.
 
