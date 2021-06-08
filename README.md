@@ -5,7 +5,9 @@ Final project is writen in Java, using Selenium. Project is written in POM. Only
 Web application for testing: www.humanity.com.
 
 Login credentials: 
+
 Username: proba@mail.com
+
 Password: proba123
 
 TASKS:
